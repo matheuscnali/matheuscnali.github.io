@@ -1,5 +1,3 @@
-# Matheus Carvalho Nali
-
 ## About me
 
 ## Studies
@@ -9,4 +7,4 @@
 ### Test driven development
 ### Security
 ### Linux
-#### Getting NVIDIA drivers working on Linux
+ - Getting NVIDIA drivers working on Linux
